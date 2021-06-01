@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to the open future of risk management! 👋
 
 <!--
 **open-risk/open-risk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
