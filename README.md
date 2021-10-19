@@ -1,23 +1,18 @@
-### Welcome to the open future of risk management! 👋
+## Welcome to the Open Risk! 👋
 
-This collection of open source tools supports our overall mission. There are many more tools comming so check frequently :-)
+![Hive Graphic](./hive_graphic.svg)
 
-- For the big picture check our [blog](https://www.openriskmanagement.com/)
-- For knowledge base, head to the [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
-- For training, we have the [Open Risk Academy](https://www.openriskacademy.com/) 
-- [Open Risk Data (Experimental)](https://www.openriskmanual.org/data/index.php/Main_Page)
+## About our Github Repositories 
 
-<!--
-**open-risk/open-risk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This collection of open source risk tools and risk models supports our overall mission. 
 
-Here are some ideas to get you started:
+- For the big picture, commentary and many other resources check our [blog](https://www.openriskmanagement.com/)
+- 💬 [Discussion at the Open Risk Commons](https://www.openriskcommons.org/)
+- For knowledge base, consult the [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
+- 🌱 For training, head to the [Open Risk Academy](https://www.openriskacademy.com/) 
+- For [live demos](https://www.openriskmanagement.com/dashboard)
+- For (experimental) [Open Risk Data](https://www.openriskmanual.org/data/index.php/Main_Page)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+There are many more tools 🔭 coming so check frequently :-)
