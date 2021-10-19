@@ -1,6 +1,6 @@
 ## Welcome to the Open Risk! 👋
 
-![Hive Graphic](./hive_graphic.svg)
+[![Hive Graphic](./hive_graphic.svg)](https://www.openriskmanagement.com)
 
 ## About our Github Repositories 
 
