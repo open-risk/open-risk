@@ -1,18 +1,22 @@
-## Welcome to the Open Risk! 👋
+## Welcome to the Open Risk GitHub repositories! 👋
 
 [![Hive Graphic](./hive_graphic.svg)](https://www.openriskmanagement.com)
 
-## About our Github Repositories 
+[Open Risk](https://www.openriskmanagement.com) is an independent provider of financial risk analysis tools and training with a strong focus on open source, open data, public standards and sustainability understood in all meanings of the word. 
 
-This collection of open source risk tools and risk models supports our overall mission. 
+We bridge the technology gap faced by many businesses and individuals across the world, in the most affordable way:
+
+* By supporting open source, peer reviewed, methodologies and risk models 
+* With the effective use, promotion and production of open data
+* By the adoption and promotion of public risk management and sustainability standards
+
+## About our GitHub Repositories 
+
+The collection of open source risk tools and risk models in our repositories supports our overall mission. 
 
 - For the big picture, commentary and many other resources check our [blog](https://www.openriskmanagement.com/)
-- 💬 [Discussion at the Open Risk Commons](https://www.openriskcommons.org/)
-- For knowledge base, consult the [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
-- 🌱 For training, head to the [Open Risk Academy](https://www.openriskacademy.com/) 
-- For [live demos](https://www.openriskmanagement.com/dashboard)
-- For (experimental) [Open Risk Data](https://www.openriskmanual.org/data/index.php/Main_Page)
+- 💬 For discussion head to the [Open Risk Commons](https://www.openriskcommons.org/)
+- To access the growing knowledge base: the [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
+- 🌱 For training resources, head to the [Open Risk Academy](https://www.openriskacademy.com/) 
 
-
-
-There are many more tools 🔭 coming so check frequently :-)
+There are many more tools 🔭 in various stages of development, so check frequently :-)
