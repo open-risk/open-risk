@@ -12,11 +12,12 @@ We bridge the technology gap faced by many businesses and individuals across the
 
 ## About our GitHub Repositories 
 
-The collection of open source risk tools and risk models in our repositories supports our overall mission. 
+This collection of open source risk tools and risk models in our repositories supports our overall mission. 
 
 - For the big picture, commentary and many other resources check our [blog](https://www.openriskmanagement.com/)
 - 💬 For discussion head to the [Open Risk Commons](https://www.openriskcommons.org/)
 - To access the growing knowledge base: the [Open Risk Manual](https://www.openriskmanual.org/wiki/Main_Page)
 - 🌱 For training resources, head to the [Open Risk Academy](https://www.openriskacademy.com/) 
+- Check out [Sustainability.Town](https://www.sustainability.town/), a live instance of the [Equinox platform](https://github.com/open-risk/equinox)
 
 There are many more tools 🔭 in various stages of development, so check frequently :-)
