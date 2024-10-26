@@ -20,6 +20,4 @@ Check out [Sustainability.Town](https://www.sustainability.town/), a live instan
 
 ## About our GitHub Repositories 
 
-The collection of open source risk tools and risk models in these repositories support our overall mission. 
-
-There are many more tools 🔭 in various stages of development, so check frequently :-)
+The collection of open source risk tools and risk models in these repositories support our overall mission. There are many more tools 🔭 in various stages of development, so check frequently :-)
