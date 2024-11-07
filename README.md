@@ -1,4 +1,4 @@
-## Welcome to the Open Risk GitHub repositories! 👋
+## Welcome to the Open Risk repositories 👋
 
 [Open Risk](https://www.openriskmanagement.com) is an independent provider of financial risk analysis tools and training with a strong focus on open source, open data, public standards and sustainability understood in all meanings of the word. 
 
